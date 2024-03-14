@@ -1,5 +1,5 @@
 # Hackintosh
-Ma configuration pour mon Hackintosh en Dual Boot avec Sonoma/Windows 11
+Ma configuration pour mon Hackintosh en Dual Boot avec Sonoma 14.3.1 / Windows 11
 
 <table>
 <tr>
