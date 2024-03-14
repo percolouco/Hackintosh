@@ -25,6 +25,14 @@ Ma configuration pour mon Hackintosh en Dual Boot avec Sonoma 14.3.1 / Windows 1
     <td>Sapphire Radeon Pulse RX 6800XT 11GB</td>
   </tr>
   <tr>
+    <td>SSD</td>
+    <td>
+      Crucial P3 Plus 2To
+      <br>
+      PNY XLR8 CS3030 1To
+    </td>
+  </tr>
+  <tr>
     <td>RAM</td>
     <td>Corsair 32G DDR5 (16G * 2) 7000Mhz CL34 (CMK32GX5M2X7000C34)</td>
   </tr>
