@@ -71,6 +71,19 @@ Pour ouvrir la partition EFI de la clé de boot :
 
 ## Step 4 - Drivers pour Windows
 
+### Drivers de la CM
+
+> [!WARNING]
+> Penser à update le BIOS
+
+[Asus Prime Z790M-PLUS ](https://www.asus.com/motherboards-components/motherboards/prime/prime-z790m-plus/)
+
+### Carte graphique
+
+Sapphire PULSE AMD Radeon™ RX 6800 XT 
+
+[AMD Software: Adrenalin Edition](https://www.amd.com/en/support)
+
 ### Imprimante
 
 - Canon PIXMA MP 499
@@ -99,6 +112,9 @@ Pour ouvrir la partition EFI de la clé de boot :
 > Greenshot
 >
 > Notepad++
+>
+> [!NOTE]
+> transférer le dossier ici une fois installé %appdata%\notepad++
 > 
 > Filezilla
 > 
@@ -138,7 +154,15 @@ Turbo Console log
 
 [Github Desktop](https://desktop.github.com/)
 
-Google Chrome
+[Slack](https://slack.com/intl/fr-fr/downloads/windows)
+
+[WhatsApp](https://www.whatsapp.com/download)
+
+[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+
+Photoshop
+
+
 
 
 
