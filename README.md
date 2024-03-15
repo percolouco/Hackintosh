@@ -18,7 +18,7 @@ Ma configuration pour mon Hackintosh en Dual Boot avec Sonoma 14.3.1 / Windows 1
   </tr>
   <tr>
     <td>Audio</td>
-    <td>ALC887</td>
+    <td>Realtek ALC897</td>
   </tr>
   <tr>
     <td>GPU</td>
@@ -34,7 +34,7 @@ Ma configuration pour mon Hackintosh en Dual Boot avec Sonoma 14.3.1 / Windows 1
   </tr>
   <tr>
     <td>RAM</td>
-    <td>Corsair 32G DDR5 (16G * 2) 7000Mhz CL34 (CMK32GX5M2X7000C34)</td>
+    <td>Corsair 32Go DDR5 (2 * 16Go) 7000Mhz CL34 (CMK32GX5M2X7000C34)</td>
   </tr>
   <tr>
     <td>Wireless &amp; Bluetooth</td>
