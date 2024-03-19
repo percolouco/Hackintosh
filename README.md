@@ -45,7 +45,7 @@ Ma configuration pour mon Hackintosh en Dual Boot avec Sonoma 14.3.1 / Windows 1
 ## Step 1 - Installer Windows 
 
 > [!WARNING]
-> Faire l'image avec balenaEtcher va faire buggué l'installation de Windows 10
+> Faire l'image avec balenaEtcher va faire bugguer l'installation de Windows 10
 
 1. Créer l'image ISO Windows 10 avec Rufus
 2. installer Windows 10
