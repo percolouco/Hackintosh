@@ -99,7 +99,10 @@ Sapphire PULSE AMD Radeon™ RX 6800 XT
 
 ### Imprimante
 
-- Canon PIXMA MP 499
+> [!WARNING]
+> Prendre les drivers pour Windows 10
+- [Canon PIXMA MP 499](https://www.canon-europe.com/support/consumer/products/printers/pixma/mp-series/pixma-mp499.html?type=drivers&detailId=tcm:13-988844&os=Windows%2010%20(64-bit)&language=fr&productTcmUri=tcm:13-780631)
+
 > [Canon MP Navigator EX 4.0](https://www.canon.fr/support/consumer_products/software/mp-navigator-ex.html)
 > 
 > [Canon IJ Network Tool](https://www.canon.fr/support/consumer_products/software/ij-network-tool.html)
