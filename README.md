@@ -22,7 +22,7 @@ Ma configuration pour mon Hackintosh en Dual Boot avec Sonoma 14.3.1 / Windows 1
   </tr>
   <tr>
     <td>GPU</td>
-    <td>Sapphire Radeon Pulse RX 6800XT 11GB</td>
+    <td>Sapphire Radeon Pulse RX 6800XT 16GB</td>
   </tr>
   <tr>
     <td>SSD</td>
