@@ -175,6 +175,18 @@ Turbo Console log
 
 Photoshop
 
+## Step 6 - Feature à update
+
+Modification du menu contextuel pour retrouver celui d'avant 
+
+![image](https://github.com/percolouco/Hackintosh/assets/57752243/e0f49d8e-997a-4f56-8a9c-61872062d50e)
+
+1. Lancer l'invit de commande
+2. taper dans le cmd `reg delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f`
+3. redémarrer
+
+
+
 
 
 
