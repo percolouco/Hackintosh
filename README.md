@@ -48,8 +48,16 @@ Ma configuration pour mon Hackintosh en Dual Boot avec Sonoma 14.3.1 / Windows 1
 > Faire l'image avec balenaEtcher va faire bugguer l'installation de Windows 10
 
 1. Créer l'image ISO Windows 10 avec Rufus
-2. installer Windows 10
-2. 
+2. Installer Windows 10
+3. Mettre la clé CD pour activer windows 10
+4. Faire les MAJ Windows update et redémarrer le PC autant que nécessaire
+> [!WARNING]
+>  Lancer l'application pour la mise à niveau vers Windows 11 en administrateur
+5. aller sur [https://www.microsoft.com/fr-fr/software-download/windows11](https://www.microsoft.com/fr-fr/software-download/windows11) pour télécharger ce qu'il faut pour mettre à niveau windows 10 vers Windows 11
+
+
+
+Windows est prêt à fonctionner.
 
 ## Step 2 - Installer macOS
 ### Step 2.1 - Créer la clé bootable
