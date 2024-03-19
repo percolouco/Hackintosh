@@ -43,7 +43,12 @@ Ma configuration pour mon Hackintosh en Dual Boot avec Sonoma 14.3.1 / Windows 1
 </table>
 
 ## Step 1 - Installer Windows 
-1. installer Windows 10
+
+> [!WARNING]
+> Faire l'image avec balenaEtcher va faire buggué l'installation de Windows 10
+
+1. Créer l'image ISO Windows 10 avec Rufus
+2. installer Windows 10
 2. 
 
 ## Step 2 - Installer macOS
