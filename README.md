@@ -66,7 +66,7 @@ Windows est prêt à fonctionner.
 ## Step 2 - Installer macOS
 ### Step 2.1 - Créer la clé bootable
 
-Créer une clé bootable avec l'image `Olarila Sonoma 14.3.1.raw` avec [balena Ecther](https://etcher.balena.io/)
+Créer une clé bootable avec l'image `Olarila Sonoma 14.3.1.raw` avec [balena Etcher](https://etcher.balena.io/)
 
 ### Step 2.2 - Créer le dossier EFI
 
