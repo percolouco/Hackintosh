@@ -10,7 +10,8 @@ Ma configuration pour mon Hackintosh en Dual Boot avec Sonoma 14.3.1 / Windows 1
   <tr>
     <td>CPU</td>
     <td>Intel Core I7 14700KF</td>
-    <td rowspan="6"><img width="200" src="/screenshot/screenshot.png"></td>
+    <td rowspan="6">![Capture d’écran 2024-03-20 à 15 15 21](https://github.com/percolouco/Hackintosh/assets/57752243/fc7842bc-4bbb-4bca-a335-65eebf48e5eb)</td>
+
   </tr>
   <tr>
     <td>Motherboard</td>
