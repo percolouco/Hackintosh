@@ -10,20 +10,23 @@ Ma configuration pour mon Hackintosh en Dual Boot avec Sonoma 14.3.1 / Windows 1
   <tr>
     <td>CPU</td>
     <td>Intel Core I7 14700KF</td>
-    <td rowspan="6">![Capture d’écran 2024-03-20 à 15 15 21](https://github.com/percolouco/Hackintosh/assets/57752243/fc7842bc-4bbb-4bca-a335-65eebf48e5eb)</td>
-
+    <td rowspan="8"><img src="https://github.com/percolouco/Hackintosh/assets/57752243/fc7842bc-4bbb-4bca-a335-65eebf48e5eb"></td>
   </tr>
   <tr>
     <td>Motherboard</td>
     <td>Asus Prime Z790M-PLUS</td>
   </tr>
   <tr>
-    <td>Audio</td>
+    <td>Chipset Audio</td>
     <td>Realtek ALC897</td>
   </tr>
   <tr>
+    <td>Chipset LAN</td>
+    <td>Intel I219-V</td>
+  </tr>
+  <tr>
     <td>GPU</td>
-    <td>Sapphire Radeon Pulse RX 6800XT 16GB</td>
+    <td>Sapphire Radeon Pulse RX 6800XT 16Go</td>
   </tr>
   <tr>
     <td>SSD</td>
